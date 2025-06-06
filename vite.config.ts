@@ -7,4 +7,5 @@ export default defineConfig({
     host: true
   },
   plugins: [react()],
+  base: "https://h1demasa.github.io/DRAMVisualizer/",
 })
